@@ -1,0 +1,35 @@
+.App {
+  /*background: linear-gradient(65deg, #d066be, #84ace2); */
+  background-image: url('./photo-teal-orange-gradient-abstract-blurry-colorful-background-phone-backgrounds_1050153-72494.jpg');
+  height: 100vh;
+  background-size: cover;
+  font-family: Helvetica;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #282c347f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #5b7ad6;
+}
+
+.App-link {
+  color: #3c4547;
+}
+
+
+@media (max-width: 768px) {
+  .App {
+    height: 200vh;
+  }
+}
