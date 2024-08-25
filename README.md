@@ -3,13 +3,13 @@
 This is a simple and responsive blog application built with React.js and Material-UI for the frontend, and Node.js with SQLite for the backend. It allows users to view, create, edit, and delete blog posts, as well as comment on posts and search for specific content.
 
 ## Features
-### 1. Responsive Layout
-### 2. Blog Post List View
-### 3. Blog Post Detail View
-### 4. Create New Blog Posts
-### 5. Client-Side Form Validation
-### 6. Comment System
-### 7. Search Functionality
+- Responsive Layout
+- Blog Post List View
+- Blog Post Detail View
+- Create New Blog Posts
+- Client-Side Form Validation
+- Comment System
+- Search Functionality
 
 ## Deployment Link:- [Blog-Application-Sushobhit-Link](https://zu-ai-assignment-sushobhit.vercel.app/)
 
