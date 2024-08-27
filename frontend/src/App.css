@@ -4,6 +4,7 @@
   height: 100vh;
   background-size: cover;
   font-family: Helvetica;
+  background-position: center;
 }
 
 .App-logo {
